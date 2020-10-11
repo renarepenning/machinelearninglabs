@@ -5,3 +5,5 @@ Code utilizes Numpy for data set manipulation.
 HW 1 - My own implementation of a Perceptron learning algorithm.
 
 HW 2 - Quantifying an approximation of training functions using VC Bound 
+
+HW 3 - Analyzing a data set with 5% noise using PLA, Pocket, and a Linear Regression. 3b Demonstrates these algorithms on a 5D data set.
