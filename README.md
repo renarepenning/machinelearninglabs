@@ -11,3 +11,5 @@ HW 3 - Analyzing a data set with 5% noise using PLA, Pocket, and a Linear Regres
 HW 4 - "Demonstrating leave-one-out cross validation for nonlinear regression": using regularized regression without cross validation.
 
 HW 5 - Identifying handwriten digits using two-dimensional features (average-intensity and symmetry); implementation of k-nearest neighbor classifier and RBF classifier algorithms.
+
+HW 6 - Create a neural network using forward propogation
